@@ -1,6 +1,7 @@
-a=24 #september
-b=30  # november
-c=31  # december
-d=31  # november 
-e=31  # october 
+a="september 24 2015"
+b="november 30 2016"
+c="december 26 2014"
+d="october 29 2017"
+e=" august 31 2013"
+
 print (a,b,c,d,e)
